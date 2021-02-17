@@ -1,0 +1,1 @@
+# CANdino-kicad
