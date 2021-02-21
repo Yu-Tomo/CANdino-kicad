@@ -4,3 +4,5 @@
 # CANdino-kicad
 
 CAN用IC搭載のArduino互換機になります。
+
+Qiitaの記事はこちらから→https://qiita.com/Yu-Tomo/items/e30f2b3abf415f76f6f1
