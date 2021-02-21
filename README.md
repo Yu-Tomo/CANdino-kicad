@@ -7,4 +7,4 @@ CAN用IC搭載のArduino互換機になります。
 
 Qiitaの記事はこちらから→https://qiita.com/Yu-Tomo/items/e30f2b3abf415f76f6f1
 
-※基盤を発注して不具合が起きても、一切の責任は取りません。
+※基盤を発注は自己責任でお願いします。
